@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b822e4343deab49a9b510f83fe7a37, type: 3}
+  m_Name: Coulder
+  m_EditorClassIdentifier: 
+  timeToHarvest: 100
+  possibleOut:
+  - pickup: {fileID: 114677890683913520, guid: 06f1fbd7f28839e44a9d6d6868ac0329, type: 2}
+    chance: 100
+  - pickup: {fileID: 114677890683913520, guid: 06f1fbd7f28839e44a9d6d6868ac0329, type: 2}
+    chance: 20
+  - pickup: {fileID: 114122205254224640, guid: fbbf18f103a302645921d85dadb19fbe, type: 2}
+    chance: 40
+  - pickup: {fileID: 114122205254224640, guid: fbbf18f103a302645921d85dadb19fbe, type: 2}
+    chance: 10

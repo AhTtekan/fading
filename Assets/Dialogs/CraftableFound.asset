@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0933d3bbad99c934588e9dfdf54ce3ba, type: 3}
+  m_Name: CraftableFound
+  m_EditorClassIdentifier: 
+  repeatable: 0
+  texts:
+  - I bet I could make something with this, I'll just need to find more materials..
+  - I can bring up the crafting menu by holding 'C' ('Y' on Xbox Controller).
+  - Then craft by pressing 'z' ('L3')
+  - Change inventory slots with Q and E (or D-pad).
+  - (I can only craft with things on the ground though, not my inventory)
+  - (Pick up items with 'Enter' ('A'), drop them with 'n' ('b')
+  timeSinceRepeat: 0
+  shown: 0

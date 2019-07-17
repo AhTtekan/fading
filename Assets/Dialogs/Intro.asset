@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0933d3bbad99c934588e9dfdf54ce3ba, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  repeatable: 0
+  texts:
+  - It's so dark here.. I need to light this place up somehow..
+  - I need to make more torches. Better start chopping some trees and finding something
+    for fuel.
+  - There are stalkers out there..
+  timeSinceRepeat: 0
+  shown: 0
